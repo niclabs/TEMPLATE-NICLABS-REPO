@@ -1,4 +1,4 @@
-# template-practicas
+# TEMPLATE-NICLABS-REPO
 Este template ([versión ingles](./README_english.md)) proporciona la información básica requerida para proyectos de GitHub. Además, incluye tutoriales e información adicional que facilitarán un mejor uso de la plataforma de GitHub y algunos de sus servicios. 
 
 ## 1. Creación del archivo `.project_info`
