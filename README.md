@@ -1,5 +1,5 @@
 # template-practicas
-Este template ([versión ingles](./README_english.md)) proporciona la información básica requerida para el proyecto de GitHub de la práctica. Además, incluye tutoriales e información adicional que facilitarán un mejor uso de la plataforma de GitHub y algunos de sus servicios. 
+Este template ([versión ingles](./README_english.md)) proporciona la información básica requerida para proyectos de GitHub. Además, incluye tutoriales e información adicional que facilitarán un mejor uso de la plataforma de GitHub y algunos de sus servicios. 
 
 ## 1. Creación del archivo `.project_info`
 Debe crear un archivo llamado `.project_info` en la carpeta raíz del proyecto con la siguiente estructura:
